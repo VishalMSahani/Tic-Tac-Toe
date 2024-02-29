@@ -118,3 +118,31 @@ h2{
 }
 
 
+@media screen and (max-width: 950px){
+    .gameUI{
+       
+        height: 60vmin;
+        width: 60vmin;
+        display: flex;
+        justify-content: center;
+        
+    }
+    .tic{
+        width: 80%;
+    }
+  
+}
+@media screen and (max-width: 650px){
+    .gameUI{
+       
+        height: 60vmin;
+        width: 70vmin;
+        display: flex;
+        justify-content: center;
+        
+    }
+    .tic{
+        width: 80%;
+    }
+  
+}
